@@ -1,0 +1,51 @@
+img{
+ margin-left: 30%;
+ width: auto;
+ margin-bottom: -13%;
+ padding-bottom: 0%;
+ padding-left: 12.3%;
+ padding-top: -7%;
+ margin-top: -15%;
+}
+.null
+{
+    margin-top: 8%;
+    margin-left: 1.8%;
+    padding-top: 0%;
+    text-align: center;
+}
+ul{
+    background-color: rgba(0, 0, 0, 0.281);
+    list-style-type: none;
+    padding-left: 0%;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+ }
+ p{
+    text-align: right;
+    text-transform: uppercase;
+ }
+ style{
+    image-rendering: auto;
+ }
+ h2{
+    margin: 3%;
+    padding: 0% 10%;
+    padding-left: 12%;
+    color: white;
+ }
+ form{
+   margin-right: -2%;
+   text-align: center;
+   padding: 5% ;
+ }
+ .void{
+   padding: 2% 21%;
+   margin-left: 10%;
+ }
+ marquee
+ {
+   background-color: rgba(0, 0, 0, 0.274);
+   color: white;
+ }
